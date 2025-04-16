@@ -5,7 +5,7 @@ const projects = [
     url: "https://www.foovante-global.com/",
     summary:
       "Foovante Global enables high CO₂ emission companies to offset emissions by supporting green projects and earning carbon credits.",
-    images: [".././assets/img/projects/1.jpg"],
+    images: [".././assets/img/1.jpg"],
   },
   {
     id: 6,
@@ -14,7 +14,7 @@ const projects = [
     tag: "",
     summary: "",
 
-    images: [".././assets/img/projects/2.jpg"],
+    images: [".././assets/img/2.jpg"],
   },
   {
     id: 5,
@@ -23,7 +23,7 @@ const projects = [
     tag: "",
     summary: "",
 
-    images: [".././assets/img/projects/3.jpg"],
+    images: [".././assets/img/3.jpg"],
   },
 ];
 
